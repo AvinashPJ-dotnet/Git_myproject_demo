@@ -1,0 +1,113 @@
+  114  git branch -M dayReview
+  115  git init
+  124  git remote add origin for i in ${!randArray[@]}
+  131  git branch -M day2review
+  132  git checkout 
+  133  git checkout bridgelab_Review_day2
+  134  git branch -M 
+  135  git branch -M bridgelab_Review_day2
+  136  git remote -v
+  137  git remote -v
+  142  git branch
+  143  git status
+  158  rm -rf .git
+  161  git branch -M Day2Review
+  169  git init
+  170  git remote add origin https://github.com/AvinashPJ-dotnet/Bridge_UseCase.git
+  171  git status
+  172  git add .
+  173  git commit -m "added review2 in master"
+  174  git push
+  175  git push origin master
+  178  git branch -M Review2
+  180  git add .
+  181  git commit -m "added branch review2 "
+  182  git push origin Review2 
+  183  git status
+  184  git checkout master
+  185  git merge Review2 
+  189  git merge Review2 
+  242  git branch -M day_10_doc1
+  243  git add .
+  244  git commit -m "solved day10 doc1 use cases"
+  245  git push
+  246  git push origin day_10_doc1 
+  248  git checkout master
+  250  git merge day_10_doc1
+  252  git merge day_10_doc1
+  502  git checkout branch_add_new_file 
+  503  git merge main 
+  504  git remote -v
+  505  git merge branch_add_new_file 
+  506  git status
+  507  git add .
+  508  git commit -m "chaged:in new class file"
+  509  git push origin main 
+  510  git status
+  511  git diff
+  512  git diff main branch_add_new_file 
+  513  git diff main branch_add_new_file 
+  514  git status 
+  515  git push origin main 
+  516  git pull
+  517  git config --global user.email"avinash.pujari42@gmail.com"
+  518  git config --global user.name"AvinashPJ-dotnet"
+  519  git status
+  520  git pull
+  521  git status
+  522  git add .
+  523  git commit -m "changed: in mytestclass print state ment"
+  524  git pull
+  525  git diff
+  526  git pull
+  527  git status
+  528  git add .
+  529  git commit -m "solved:changes in local testclass file"
+  530  git push origin main 
+  531  git status
+  532  git push
+  533  git pull
+  534  git add .
+  535  git commit -m "solved:changes in local testclass file"
+  536  git push origin main 
+  537  git pull
+  538  git add .
+  539  git commit -m "changed: in local testclass file"
+  540  git pull
+  541  git diff
+  542  git pull
+  543  git status
+  544  git merge --abort
+  545  git status
+  546  git diff
+  547  git pull
+  548  git diff
+  549  git status
+  550  git add .
+  551  git commit -m "changed: in local testclass file"
+  552  git push origin main 
+  553  git status
+  554  git checkout branch_add_new_file 
+  556  git status
+  557  git checkout main 
+  558  git pull
+  559  git diff
+  560  git diff branch_add_new_file main 
+  561  git checkout 
+  562  git checkout branch_add_new_file 
+  563  git diff
+  564  git diff branch_add_new_file main 
+  565  git merge main 
+  566  git merge main 
+  567  git add .
+  568  git commit -m "changed: in branch testclass constructor"
+  569  git push origin branch_add_new_file 
+  571  history | grep git
+  572  history | grep git | cat gitcommand.txt
+  573  history | grep git | touch gitcommand.txt
+  575  nano gitcommand.txt 
+  576  history | grep git >  gitcommand.txt
+  577  cat gitcommand.txt 
+  578  grep hello >  gitcommand.txt
+  580  cat gitcommand.txt 
+  581  history | grep git >  gitcommand.txt
