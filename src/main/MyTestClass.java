@@ -1,13 +1,7 @@
 package main;
 
 public class MyTestClass {
-<<<<<<< HEAD
     public MyTestClass(){
-        System.out.printf("hey this is my test class");
+        System.out.printf("hey this is my test class edited in remote");
     }
-=======
-public MyTestClass(){
-    System.out.printf("hey this is my test class Edited in remote");
-}
->>>>>>> daeddb39f2953ac7629f99be238085c04310c5aa
 }
