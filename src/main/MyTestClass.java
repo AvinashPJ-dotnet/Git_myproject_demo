@@ -1,7 +1,7 @@
 package main;
 
 public class MyTestClass {
-public MyTestClass(){
-    System.out.printf("hey this is my test class");
-}
+    public MyTestClass(){
+        System.out.printf("hey this is my test class");
+    }
 }
